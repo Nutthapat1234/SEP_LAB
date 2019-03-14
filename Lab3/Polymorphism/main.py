@@ -1,3 +1,4 @@
+from Lab3.Polymorphism.Taxi import Taxi
 from Lab3.Polymorphism.incomplete_code import *
 
 if __name__ == '__main__':
