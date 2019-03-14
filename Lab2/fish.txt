@@ -1,4 +1,6 @@
 Barracuda
+Chough
+Cod
 Dogfish
 Dolphin
 Eel
@@ -12,6 +14,7 @@ Porpoise
 Salmon
 Sand Dollar
 Sardine
+Sea Urchin
 Shark
 Stingray
 Trout
