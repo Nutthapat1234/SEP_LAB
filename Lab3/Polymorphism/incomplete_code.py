@@ -22,3 +22,7 @@ class Walk( Transportation ):
    def find_cost( self ):
       return 0
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2d0b734c58dbc9476871f7d4f843344c69b40242
