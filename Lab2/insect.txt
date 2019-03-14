@@ -1,0 +1,14 @@
+Bee
+Butterfly
+Caterpillar
+Cockroach
+Crane
+Dragonfly
+Gnat
+Grasshopper
+Hornet
+Mosquito
+Scorpion
+Termite
+Worm
+
