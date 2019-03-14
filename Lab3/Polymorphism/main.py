@@ -1,6 +1,6 @@
 from Lab3.Polymorphism.Taxi import Taxi
 from Lab3.Polymorphism.incomplete_code import *
-from Lab3.Polymorphism.Train import Tain
+from Lab3.Polymorphism.Train import Train
 
 if __name__ == '__main__':
     travel_cost = 0
